@@ -1,0 +1,5 @@
+{
+  "name": "Divisor de Foto da Hora",
+  "description": "Uma ferramenta web para dividir fotos grandes em várias folhas A4 para impressão de posters gigantes.",
+  "requestFramePermissions": []
+}
